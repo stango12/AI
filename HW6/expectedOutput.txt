@@ -1,0 +1,30 @@
+outlook = sunny :
+	humidity = high :
+		NO
+	humidity = normal :
+		YES
+outlook = overcast :
+	YES
+outlook = rainy :
+	wind = weak :
+		YES
+	wind = strong :
+		NO
+
+NO
+NO
+YES
+YES
+YES
+NO
+YES
+NO
+YES
+YES
+YES
+YES
+YES
+NO
+YES
+
+Training error = 0.0 , Test error = 0.2

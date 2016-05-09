@@ -1,0 +1,15 @@
+outlook	temperature	humidity	wind	playtennis
+sunny	hot	high	weak	NO
+sunny	hot	high	strong	NO
+overcast	hot	high	weak	YES
+rainy	mild	high	weak	YES
+rainy	cool	normal	weak	YES
+rainy	cool	normal	strong	NO
+overcast	cool	normal	strong	YES
+sunny	mild	high	weak	NO
+sunny	cool	normal	weak	YES
+rainy	mild	normal	weak	YES
+sunny	mild	normal	strong	YES
+overcast	mild	high	strong	YES
+overcast	hot	normal	weak	YES
+rainy	mild	high	strong	NO

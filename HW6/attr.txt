@@ -1,0 +1,4 @@
+0	outlook	sunny	overcast	rainy
+1	temperature	hot	mild	cool
+2	humidity	high	normal
+3	wind	weak	strong
